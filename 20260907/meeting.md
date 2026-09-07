@@ -8,7 +8,7 @@
 ## 개인별 공유
 
 - [동민 — 모듈·의존성·빌드·로딩·실행 환경](동민/README.md)
-- [윤호 — Docker 실행 원리](윤호/README.md)
+- [윤호 — Docker와 Linux namespace·cgroup](윤호/README.md)
 
 ## 함께 확인한 사실과 근거
 
