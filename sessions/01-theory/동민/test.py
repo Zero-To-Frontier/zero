@@ -1,3 +1,4 @@
-import sys
+#random 모듈이 저장된 위치를 보는 방법
+import random
 
-print(sys.__file__)
+print(random.__file__)
